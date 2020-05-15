@@ -24,6 +24,8 @@ dependencies:
   - nbdime==1.1.0
   - xlayers==0.2
   - xrft
+  - dask-kubernetes
+  - zarr
   # help the conda solver
   - cartopy==0.17.0
   - dask==2.9.0
