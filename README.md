@@ -1,6 +1,7 @@
 # Earth-Cube-2020-spectral-analysis
 Repo with notebooks showing how to use xrft to do spectral analysis of LLC4320.
 
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/dhruvbalwada/Earth-Cube-2020-spectral-analysis/master)
 
 # Spectral Analysis using xrft and Pangeo
 **Dhruv Balwada, Takaya Uchida, and Ryan Abernathey**  
